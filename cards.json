@@ -1,0 +1,27 @@
+[
+
+    {
+        "image": "./grapes.png",
+        "name": "grapes"
+    },
+    {
+        "image": "./lemon.png",
+        "name": "lemon"
+    },
+    {
+        "image": "./orange.png",
+        "name": "orange"
+    },
+    {
+        "image": "./strawberry.png",
+        "name": "strawberry"
+    },
+    {
+        "image": "./tomato.png",
+        "name": "tomato"
+    },
+    {
+        "image": "./watermelon.png",
+        "name": "watermelon"
+    }
+]
